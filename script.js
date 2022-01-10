@@ -33,7 +33,7 @@ $(".B4").click(function() {
     $(".B4").fadeOut(750);
     $(".B4a").fadeOut(750);
     $(".B5").fadeIn(750);
-    $("h3").text("Writing Prompt");
+    $("h3").text("The title of this artifact is Chicago Parades. This piece highlights Advanced Cities through vision. Advanced cities are defined as a large population that rely on farming and trade. In this artifact we can see that there is a very large population spectaring the parade. We can also see people trading their time for people to see and enjoy the parade.\nThis artifact connects to me because for many years I have gone downtown to see the parade with my family. This artifact also connects to Chicago because it is a Chicago tradition.");
     $("h2").text("Writing Prompt");
     $(".advCity").fadeOut(750);
 
@@ -43,7 +43,7 @@ $(".B4a").click(function() {
     $(".B4").fadeOut(750);
     $(".B4a").fadeOut(750);
     $(".B5").fadeIn(750);
-    $("h3").text("Writing Prompt");
+    $("h3").text("The title of this artifact is Chicago Parades. This piece highlights Advanced Cities through vision. Advanced cities are defined as a large population that rely on farming and trade. In this artifact we can see that there is a very large population spectaring the parade. We can also see people trading their time for people to see and enjoy the parade.\nThis artifact connects to me because for many years I have gone downtown to see the parade with my family. This artifact also connects to Chicago because it is a Chicago tradition.");
     $("h2").text("Writing Prompt");
     $(".advCity").fadeOut(750);
 
@@ -69,7 +69,7 @@ $(".B7").click(function() {
     $(".B7a").fadeOut(750);
     $(".B8").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+    $("h3").text("The title of this artifact is Ritual This piece highlights Religion through vision. Religion is the explanation of natural forces and their roles in the world. In this artifact we can see that the people in the image are taking part in a ritual. In the image we see fire which can be interpreted as the force of purification.\nThis image connects with me because religion is a very important thing to my family. I also chose this image because fire and water are some of the many symbols my religion has. This image connects to Chicago because chicago has a variety of religions.");
     $(".religion").fadeOut(750);
 
 });
@@ -79,7 +79,7 @@ $(".B7a").click(function() {
     $(".B7a").fadeOut(750);
     $(".B8").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+        $("h3").text("The title of this artifact is Ritual This piece highlights Religion through vision. Religion is the explanation of natural forces and their roles in the world. In this artifact we can see that the people in the image are taking part in a ritual. In the image we see fire which can be interpreted as the force of purification.\nThis image connects with me because religion is a very important thing to my family. I also chose this image because fire and water are some of the many symbols my religion has. This image connects to Chicago because chicago has a variety of religions.");
 
     $(".religion").fadeOut(750);
 
@@ -110,7 +110,7 @@ $(".B11").click(function() {
     $(".B11a").fadeOut(750);
     $(".B12").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+    $("h3").text("This artifact is titled Powerful Voices. This artifact highlights Writing and Art through Vision. Writing is a form of keeping record of trade, government and development but also a form of Communication like ort. Art is a way to communicate stories of natural occurrences, gods and rulers. In this image we see writing and communicating things happening right now around the world.\nThis artifact connects to me because it says. “The Voice is power” in spanish. I highly agree with this.This artifact connects to Chicago because It is located in the Pilsen neighborhood in Chicago.");
     $(".writingArt").fadeOut(750);
 
 });
@@ -120,7 +120,8 @@ $(".B11a").click(function() {
     $(".B11a").fadeOut(750);
     $(".B12").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+       $("h3").text("This artifact is titled Powerful Voices. This artifact highlights Writing and Art through Vision. Writing is a form of keeping record of trade, government and development but also a form of Communication like ort. Art is a way to communicate stories of natural occurrences, gods and rulers. In this image we see writing and communicating things happening right now around the world.\nThis artifact connects to me because it says. “The Voice is power” in spanish. I highly agree with this.This artifact connects to Chicago because It is located in the Pilsen neighborhood in Chicago.");
+
     $(".writingArt").fadeOut(750);
 });
 $(".B12").click(function() {
@@ -143,7 +144,7 @@ $(".B14").click(function() {
     $(".B14a").fadeOut(750);
     $(".g").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+    $("h3").text("This Artifact is titled Map. This artifact highlights Social Structures through Vision. In this photo we can see how the police areas are divided throughout the city. \nThis map connects to me because I know people and have friends that are police or work for the police. This artifact connects to Chicago because it is referring to the Chicago police.");
     $(".social").fadeOut(750);
 
 });
@@ -153,7 +154,7 @@ $(".B14a").click(function() {
     $(".B14a").fadeOut(750);
     $(".g").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+        $("h3").text("This Artifact is titled Map. This artifact highlights Social Structures through Vision. In this photo we can see how the police areas are divided throughout the city. \nThis map connects to me because I know people and have friends that are police or work for the police. This artifact connects to Chicago because it is referring to the Chicago police.");
     $(".social").fadeOut(750);
 });
 $(".g").click(function() {
@@ -220,7 +221,7 @@ $(".B16").click(function() {
     $(".B16").fadeOut(750);
     $(".B17").fadeIn(750);
     $("h2").text("Writing Prompt");
-    $("h3").text("Writing Prompt");
+    $("h3").text("The title of this artifact is Let's Play.\nThis artifact highlights all six characteristics through Vision/ touch In this artifacts we can see all the characteristics of a civilization.\nThis artifact Connects to me because it is a game that I coded. Coding is one of the things that I enjoy dang. This artifact connects to Chicago because Chicago is the third largest producer of Software development degrees.");
     $("h4").text("");
 
 });
